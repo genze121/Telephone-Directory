@@ -1,0 +1,8 @@
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\obj\x86\Debug\Telephone_Directory.Phone.resources
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\obj\x86\Debug\Telephone_Directory.Properties.Resources.resources
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\obj\x86\Debug\Telephone Directory.csproj.GenerateResource.Cache
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.exe
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.pdb
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\obj\x86\Debug\Telephone Directory.exe
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\obj\x86\Debug\Telephone Directory.pdb
+C:\Users\tirth\OneDrive\Documents\DOT NET PROJECTS\Telephone Directory\Telephone Directory\obj\x86\Debug\Telephone Directory.csprojResolveAssemblyReference.cache
